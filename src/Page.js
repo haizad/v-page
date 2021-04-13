@@ -76,7 +76,7 @@ export default {
       lastPageSize: -1,
       current: 0,
       pageNumberSize: 5,
-      i18n: languages[this.language] || languages.cn
+      i18n: languages[this.language] || languages.en
     }
   },
   computed: {
