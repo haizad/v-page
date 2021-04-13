@@ -27,7 +27,7 @@ export default {
     },
     language: {
       type: String,
-      default: 'cn'
+      default: 'en'
     },
     /**
      * pagination alignment direction
